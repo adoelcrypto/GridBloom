@@ -1,0 +1,7 @@
+{
+  "name": "GridBloom - Casual Block Puzzle Game",
+  "description": "GridBloom is a vibrant, mobile-first block placement puzzle game featuring the unique Bloom Pulse clearing mechanic, combos, daily challenges, and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
